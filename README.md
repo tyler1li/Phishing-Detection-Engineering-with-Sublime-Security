@@ -91,13 +91,19 @@ The rule was working correctly the entire time — it caught a genuinely disguis
 
 ## Screenshots
 
-> Screenshots to be added.
+**Rule 1 — VIP Impersonation via Free Email Provider**
 
-- `screenshots/rule-1-detail.png` — Rule 1 detail view (VIP Impersonation via Free Email Provider)
-- `screenshots/rule-1-hunt-results.png` — Rule 1 Hunt results
-- `screenshots/rule-2-detail.png` — Rule 2 detail view (Lookalike Domain Impersonation)
-- `screenshots/rule-2-hunt-results.png` — Rule 2 Hunt results showing the `tyrelllcorp.com` typosquat catch
-- `screenshots/dashboard-overview.png` — Sublime dashboard / demo org overview
+![Rule 1 detail view](screenshots/rule-1-detail.png)
+![Rule 1 Hunt results](screenshots/rule-1-hunt-results.png)
+
+**Rule 2 — Lookalike Domain Impersonation**
+
+![Rule 2 detail view](screenshots/rule-2-detail.png)
+![Rule 2 Hunt results showing the tyrelllcorp.com typosquat catch](screenshots/rule-2-hunt-results.png)
+
+**Dashboard / demo org overview**
+
+![Sublime dashboard overview](screenshots/dashboard-overview.png)
 
 ## Skills Demonstrated
 
